@@ -9,10 +9,12 @@ This project
 - Train a model(Ridge) that can predict housing price
 - Test the model to see if it can generalize
 - Communicate the result in form of
-    a. Visualization ( Mapbox Open street map). It was observed 
-        that houses around the coastline have higher price.
-    b. Using equation for technical viewers 
-    c. Using interactive dashboard 
+- Visualization ( Mapbox Open street map).
+  
+CONCLUSION 
+- It was observed that houses around the coastline have higher price.
+- Using equation for technical viewers 
+- Using interactive dashboard 
     
 This project is a self chosen project to enhance my knowledge in my current study in data science at WorldQuant university.
 
