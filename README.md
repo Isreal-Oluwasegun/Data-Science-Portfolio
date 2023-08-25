@@ -12,8 +12,8 @@ This project
     a. Visualization ( Mapbox Open street map). It was observed 
         that houses around the coastline have higher price.
     b. Using equation for technical viewers 
-    c. Using interactive 
+    c. Using interactive dashboard 
     
 This project is a self chosen project to enhance my knowledge in my current study in data science at WorldQuant university.
 
-I will appreciate feedback communication on areas I need to improve on for better result. Thanks
+I will appreciate feedback on areas I need to improve on for better result. Thanks
